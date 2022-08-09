@@ -8,10 +8,10 @@ meta =
 
     -- Name of your mod; You may want this to be unique, but it's not absolutely necessary.
     -- This is an additional helper attribute for you to easily identify your mod in the Mods() list
-    name = "GateFounder",
+    name = "GateFounderAv2.0",
 
     -- Title of your mod that will be displayed to players
-    title = "Gate Founder",
+    title = "Gate Founder Av2.0",
 
     -- Type of your mod, either "mod" or "factionpack"
     type = "mod",
@@ -20,13 +20,13 @@ meta =
     description = "Allows players to create warp gates.",
 
     -- Insert all authors into this list
-    authors = {"Rinart73"},
+    authors = {"Rinart73", "ReLLoMine"},
 
     -- Version of your mod, should be in format 1.0.0 (major.minor.patch) or 1.0 (major.minor)
     -- This will be used to check for unmet dependencies or incompatibilities, and to check compatibility between clients and dedicated servers with mods.
     -- If a client with an unmatching major or minor mod version wants to log into a server, login is prohibited.
     -- Unmatching patch version still allows logging into a server. This works in both ways (server or client higher or lower version).
-    version = "1.5.3",
+    version = "1.5.4",
 
     -- If your mod requires dependencies, enter them here. The game will check that all dependencies given here are met.
     -- Possible attributes:
